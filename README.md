@@ -1,39 +1,93 @@
-# 🌟 Hello, World! I'm @4sdf32d 🌟
-
-![Welcome Banner](https://user-images.githubusercontent.com/your-username/banner-image.jpg)
-
-## 🌌 About Me
-
-👋 Hi, I'm @4sdf32d! A passionate developer with a keen interest in **technology**, **innovation**, and **creative solutions**. I love diving deep into code, exploring new frameworks, and bringing ideas to life.
-
-## 🚀 What I’m Up To
-
-- 👀 I’m interested in everything from **artificial intelligence** to **blockchain**. My curiosity drives me to explore **new technologies** and **develop cutting-edge applications**.
-- 🌱 I’m currently mastering **React** and **Node.js** to build powerful, user-friendly web applications. Always learning and growing!
-- 💞️ I’m looking to collaborate on **open-source projects** and **startups** that make a difference. Let’s create something amazing together!
-
-## 📬 Get In Touch
-
-- **Email:** [your-email@example.com](mailto:your-email@example.com)
-- **LinkedIn:** [linkedin.com/in/your-profile](https://linkedin.com/in/your-profile)
-- **Twitter:** [@yourTwitterHandle](https://twitter.com/yourTwitterHandle)
-
-## ⚡ Fun Facts
-
-- 🎮 I’m an avid gamer, always up for a challenge in **FPS** or **RPG** games.
-- 📚 When I'm not coding, you’ll find me buried in a **sci-fi novel** or writing short stories.
-- 🌍 I love traveling and have a goal to visit every continent by the end of the decade.
-
-## 🌟 Pronouns: They/Them
-
-## ✨ Let's Connect and Create!
-
-Feel free to reach out if you have any questions, ideas, or just want to chat. I’m always excited to meet new people and learn new things!
-
-![Let's Connect](https://user-images.githubusercontent.com/your-username/connect-image.jpg)
+# 👋 你好，我是 @YIHENG YE
 
 ---
 
-**“The best way to predict the future is to create it.”** — Abraham Lincoln
+## 关于我
 
-![Footer Image](https://user-images.githubusercontent.com/your-username/footer-image.jpg)
+🌟 **人工智能爱好者与Java开发者**
+
+广东财经大学计算机科学与技术专业的大三学生，专注于人工智能和大模型技术，具有丰富的Python和Java开发经验。我喜欢探索深度学习、自然语言处理（NLP）和计算智能领域的最新技术和应用。
+
+---
+
+## 🌱 我在学习的内容
+
+- **深度学习与模型优化**：探索和改进基于深度学习的模型，尤其是图像分割和情感分析领域。
+- **大语言模型（LLM）**：研究并实践Llama3等大语言模型的微调、量化和部署技术。
+- **JAVA后端开发**：短链接，外卖系统
+
+---
+
+## 📂 项目经验
+
+### 医学图像分割的模型改进
+*时间：2024.01 - 2024.04*
+
+- 针对视网膜血管图像分割任务，进行数据集的分析和预处理。
+- 进行文献调研，研究并对比Unet和ResNet等模型的性能。
+- 引入坐标注意机制和Min-ASPP模块，提升模型的多尺度特征聚合能力。
+- 撰写并以第一作者身份发表EI会议论文。
+
+### 电商评论多维度分析系统
+*时间：2024.04 - 2024.05*
+
+- 使用Selenium库爬取网购平台的评论信息，解决自动登录和反爬虫问题。
+- 构建并优化基于Bert和双向LSTM的情感分析模型，实现多分类任务。
+- 基于PaddleNLP的UIE模型，进行文本的细粒度情感分析，提升信息提取效果。
+- 使用ONNXRuntime框架进行模型部署。
+
+### 基于Llama3-8b的大语言模型微调、量化和部署
+*时间：2024.05 - 2024.06*
+
+- 使用Llama-factory框架对Llama-3-chinese-8b-instruct-v2进行LoRA微调，开发聊天语言模型。
+- 基于Llama.cpp框架，进行4bit量化，并在Ollama平台上部署至本地。
+
+---
+
+## 👨‍🔬 实践经历
+
+### 基于细粒度的情感分析综述性研究
+*时间：2023.10 - 2024.02*
+
+- 参与北大课外研究实践，完成自然语言处理技术的研究与应用项目。
+- 在情感分析领域进行深入研究，撰写并发表关于细粒度情感分析的学术论文。
+
+### 2024 MathorCup数学建模挑战赛
+*时间：2024.03 - 2024.04*
+
+- 领导团队参与甲骨文原始拓片的单字分割与识别任务。
+- 负责数据集的图像降噪和增强处理，使用Fast R-Cnn和Yolo模型进行实验和优化。
+
+---
+
+## 🎓 教育背景
+
+### 广东财经大学
+*计算机科学与技术专业 本科（大三）*  
+*时间：2021.09 - 至今*
+
+- 主要课程：Python、数据结构、深度学习、计算智能。
+
+---
+
+## 🛠️ 专业技能
+
+- **编程语言**：熟练使用Python，熟悉Java。
+- **深度学习框架**：熟练使用PyTorch和相关深度学习库。
+- **开发环境**：熟悉Linux环境，了解LLM微调、RAG技术。
+- **模型架构**：了解CNN、RNN、Transformer，并能应用于图像识别、语义分割和情感分析。
+
+---
+
+## 🌐 联系方式
+
+- 邮箱：2444083663@qq.com
+- GitHub：[4sdf32d](https://github.com/4sdf32d)
+
+---
+
+## 🎉 有趣的事实
+
+- 我喜欢探索最新的技术，并在课余时间开发个人项目。
+- 热衷于参加各类编程比赛和挑战赛，不断提升自己的技术水平。
+
