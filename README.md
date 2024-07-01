@@ -1,6 +1,9 @@
 # 👋 你好，我是 @YIHENG YE
 
 ---
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Handlee&center=true&vCenter=true&width=500&height=60&lines=The+traveler+often+arrives%2C+and+the+doer+often+succeeds.)](https://git.io/typing-svg)
 
 ## 关于我
 
